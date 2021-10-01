@@ -1,7 +1,5 @@
-
-#!bin/bash
+#!/bin/bash
 pwd
-ls -F
-ls /home/ftol > lista_home.txt
+ls /home > lista_HOME.txt
 date
 
